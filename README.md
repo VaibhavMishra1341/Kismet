@@ -14,6 +14,7 @@ Explore the world of wireless insights with Kismet! This open-source tool offers
 ## Features
 
 - **Passive Capture**: Kismet works seamlessly in the background, collecting wireless data without user intervention.
+
   ![devices](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/5d9a2aad-188f-4b3b-8706-5ec1903016a3)
 
 
@@ -29,8 +30,15 @@ Explore the world of wireless insights with Kismet! This open-source tool offers
 
 - **Device Information**: Gain insights into tracked devices with details like MAC address, manufacturer, signal strength, and more.
 
+![Screenshot_46](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/a622e15a-509c-45f8-8d53-e882bd041004)
+
+![Screenshot_42](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/f8a2dcd1-9117-4d63-8037-b5307ee1cb4b)
+
+
 - **Graphical Representation**: Visualize data with historical graphs showcasing Wi-Fi vs clients, frequency distribution, and devices per channel.
+
   ![Screenshot_2022-11-14_01_35_48](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/5f9c46cd-b46f-410b-92af-ab1b4a1c3458)
+  
 ![Screenshot_2022-11-14_01_36_04](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/1c578d99-d328-4fb3-88e4-34df0af55f88)
 
 
@@ -65,12 +73,14 @@ Explore the world of wireless insights with Kismet! This open-source tool offers
 
     kismet -c YourCardNameMon
    ```
+   
    ![Screenshot_42](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/b47a4032-6c04-4f52-9e85-7124015fee3a)
 
 
 4. **Explore and Analyze**: Navigate the Kismet interface, analyze data, visualize graphs, and monitor wireless activity.
    
-![Screenshot_2022-11-14_01_36_24](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/548cbc0c-ebb5-4b70-b185-8227fd402159)
+
+![Screenshot_2022-11-14_01_39_45](https://github.com/VaibhavMishra1341/Kismet/assets/39896268/503aebb4-d7ab-48c9-a435-9c4133333eb3)
 
 ## Contributed By
 
